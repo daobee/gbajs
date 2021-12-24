@@ -1,8 +1,8 @@
 function GameBoyAdvanceKeypad() {
-	this.KEYCODE_LEFT = 37;
-	this.KEYCODE_UP = 38;
-	this.KEYCODE_RIGHT = 39;
-	this.KEYCODE_DOWN = 40;
+	this.KEYCODE_LEFT = 72;
+	this.KEYCODE_UP = 75;
+	this.KEYCODE_RIGHT = 76;
+	this.KEYCODE_DOWN = 74;
 	this.KEYCODE_START = 13;
 	this.KEYCODE_SELECT = 220;
 	this.KEYCODE_A = 90;
